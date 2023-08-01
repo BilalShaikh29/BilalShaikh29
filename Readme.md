@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalshaikh29&label=Profile%20views&color=0e75b6&style=flat" alt="bilalshaikh29" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/bilalsheikhh9" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bilalsheikhh9?logo=twitter&style=for-the-badge" alt="https://twitter.com/bilalsheikhh9" /></a> </p>
-
 - 🔭 I’m currently working on **ERP System**
 
 - 🌱 I’m currently learning **AngularJs**
