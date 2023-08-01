@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalshaikh29&label=Profile%20views&color=0e75b6&style=flat" alt="bilalshaikh29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalshaikh29" alt="bilalshaikh29" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://twitter.com/bilalsheikhh9" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bilalsheikhh9?logo=twitter&style=for-the-badge" alt="https://twitter.com/bilalsheikhh9" /></a> </p>
 
 - 🔭 I’m currently working on **ERP System**
