@@ -1,4 +1,4 @@
-<img width="100%" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R37658858&ga=GA1.2.1779080570.1691169126&semt=sph" > 
+<img width="100%" src="https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png" > 
 <h1 align="center">Hi 👋, I'm Bilal Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" alt="programming" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif">
