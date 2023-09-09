@@ -1,6 +1,4 @@
 <img width="100%" src="https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png" > 
-<h1 align="center">Hi 👋, I'm Bilal Shaikh</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" alt="programming" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalshaikh29&label=Profile%20views&color=0e75b6&style=flat" alt="bilalshaikh29" /> </p>
 - 🔭 I’m currently working on **ERP system**
