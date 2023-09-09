@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R37658858&ga=GA1.2.1779080570.1691169126&semt=sph) ]
+(https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R37658858&ga=GA1.2.1779080570.1691169126&semt=sph) 
 <h1 align="center">Hi 👋, I'm Bilal Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" alt="programming" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif">
